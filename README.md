@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Student Productivity Dashboard
 
 A modern web application that helps students manage their academic life — courses, assignments, deadlines, weekly planning, and progress tracking — all in one place.
@@ -78,6 +77,3 @@ src/
 ## License
 
 MIT
-=======
-# student-productivity-dashboard
->>>>>>> f4b52597b92cf594137be00954e286aa89f5ee27
