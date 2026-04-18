@@ -10,17 +10,17 @@
 
 **Completion Criteria:** App runs locally, sidebar navigation works, all routes load empty pages, Zustand stores persist to localStorage.
 
-- [ ] Initialize Vite + React + TypeScript project
-- [ ] Install and configure Tailwind CSS
-- [ ] Install and configure shadcn/ui
-- [ ] Install Zustand and React Router v6
-- [ ] Set up folder structure (`components`, `pages`, `store`, `types`, `lib`)
-- [ ] Define TypeScript types: `Course`, `Assignment`, `WeeklyPlan`
-- [ ] Create Zustand store for courses (with localStorage persistence)
-- [ ] Create Zustand store for assignments (with localStorage persistence)
-- [ ] Create Zustand store for weekly planner (with localStorage persistence)
-- [ ] Create root layout with sidebar navigation
-- [ ] Set up React Router with placeholder routes for all pages
+- [x] Initialize Vite + React + TypeScript project
+- [x] Install and configure Tailwind CSS
+- [x] Install and configure shadcn/ui
+- [x] Install Zustand and React Router v6
+- [x] Set up folder structure (`components`, `pages`, `store`, `types`, `lib`)
+- [x] Define TypeScript types: `Course`, `Assignment`, `WeeklyPlan`
+- [x] Create Zustand store for courses (with localStorage persistence)
+- [x] Create Zustand store for assignments (with localStorage persistence)
+- [x] Create Zustand store for weekly planner (with localStorage persistence)
+- [x] Create root layout with sidebar navigation
+- [x] Set up React Router with placeholder routes for all pages
 
 ---
 
@@ -30,11 +30,11 @@
 
 **Completion Criteria:** User can create, update, and delete courses. Data persists on page refresh.
 
-- [ ] Course list page with empty state
-- [ ] Add course form (name, course code, color picker)
-- [ ] Edit course inline or via form
-- [ ] Delete course with confirmation dialog
-- [ ] Course card component with color label display
+- [x] Course list page with empty state
+- [x] Add course form (name, course code, color picker)
+- [x] Edit course inline or via form
+- [x] Delete course with confirmation dialog
+- [x] Course card component with color label display
 
 ---
 
